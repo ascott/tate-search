@@ -7,8 +7,8 @@ data set can be found here: https://github.com/tategallery/collection/blob/maste
 
 #### to run
 ```
-➜  tate-search git:(master) ruby tate-search.rb
+$ ruby tate-search.rb
 male  = 2895
 female = 521
-percentage_female  = 15.251756440281032
+percentage_female = 15.25%
 ```
