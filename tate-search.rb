@@ -17,4 +17,4 @@ percentage_female =  (female.to_f / total.to_f) * 100
 
 puts "male  = #{male}"
 puts "female = #{female}"
-puts "percentage_female  = #{percentage_female}"
+puts "percentage_female = #{percentage_female.round(2)}%"
